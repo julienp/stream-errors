@@ -68,3 +68,8 @@ res aborted
 { status: 200, length: 87774, end: 'rect x="56' }
 res close
 ```
+
+# References
+
+- https://github.com/nodejs/web-server-frameworks/issues/41
+- https://github.com/nodejs/node/issues/28172
